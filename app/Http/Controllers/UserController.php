@@ -8,7 +8,7 @@ use App\Models\User;
 class UserController extends Controller
 {
     /**
-     * Eliminar un usuario por su ID.
+     * 
      *
      * @param int $id
      * @return \Illuminate\Http\JsonResponse

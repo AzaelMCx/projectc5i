@@ -3,8 +3,8 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use PDF; // Import the PDF facade
-use App\Models\Reporte; // Import the Reporte model
+use PDF; // 
+use App\Models\Reporte; // 
 
 class PDFController extends Controller
 {
